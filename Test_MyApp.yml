@@ -1,6 +1,6 @@
 ---
 - name: Test My App
-  hosts: localhost
+  hosts: serverq.lab.example.com
   connection: local
   tasks:
     - name: Test my app 
