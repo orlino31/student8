@@ -1,6 +1,6 @@
 ---
 - name: Install Docker 
-  hosts: servera.lab.example.com
+  hosts: serverq.lab.example.com
   become: true
     
   tasks:
